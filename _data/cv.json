@@ -1,27 +1,26 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Yi Yao",
+    "email": "yi.yao@env.ethz.ch",
+    "website": "https://YiYao1995.github.io",
+    "summary": "Currently employed at ETH Zurich as a post-doctoral researcher",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "CHN L16.3, Universitätstrasse 16, Zurich",
+      "postalCode": "8006",
+      "city": "Zurich",
+      "countryCode": "Switzerland",
+      "region": "Zurich Canton"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Yi Yao",
+        "url": "https://scholar.google.com/citations?user=1ufXyHkAAAAJ&hl=en&oi=ao"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "Yi Yao",
+        "url": "https://orcid.org/0000-0003-2212-2394"
       },
       {
         "network": "GitHub",
@@ -33,29 +32,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Vrije Universiteit Brussel",
+      "area": "Ph.D in Climate Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2019",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Beijing Normal University",
+      "area": "M.S. in Hydrology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2016",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Wuhan University",
+      "area": "B.S. in Hydraulic Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2012",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     }
