@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2025-10-29
 venue: 'Nature Communications'
 slidesurl: ''
-paperurl: '[https://academicpages.github.io/files/paper2.pdf](https://www.nature.com/articles/s41467-025-64580-y.pdf)'
+paperurl: 'https://www.nature.com/articles/s41467-025-64580-y.pdf'
 citation: 'Yao, Y., Sieber, P., Hauser, M. et al. Conversion from coniferous to broadleaved trees can make European forests more climate-effective. Nat Commun 16, 9536 (2025). https://doi.org/10.1038/s41467-025-64580-y'
 ---
 
